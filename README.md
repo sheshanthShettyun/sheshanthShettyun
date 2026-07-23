@@ -1,12 +1,6 @@
-
 <div align="center">
 
-```
- ___  ___  ___ _   _  _   ___  _   _
-/ __|/ _ \|_ _|\ \/ / /_\ |_ _|/_\ | \|
-\__ \ (_) || |  >  < / _ \ | |/ _ \| .`|
-|___/\___/|___|/_/\_\/_/ \_\___/_/ \_\_|\_|
-```
+<video src="ascii-magic-2.mp4" autoplay muted loop playsinline width="420"></video>
 
 *Digital products, built to reason.*
 
@@ -18,7 +12,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hi, I'm Sriyaan
+### Hi, I'm Sheshanth
 
 Full-stack developer building AI-native products. 2+ years across the stack — from RAG pipelines to production deployments. 6+ projects shipped. Based in India.
 
