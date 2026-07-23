@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="githubgoofy.gif" width="630" alt="SRIYAAN">
+<img src="githubgoofy.gif" width="420" alt="SRIYAAN">
 
 *Digital products, built to reason.*
 
