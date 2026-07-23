@@ -1,4 +1,4 @@
-[github-profile-README.md](https://github.com/user-attachments/files/30300514/github-profile-README.md)
+
 <div align="center">
 
 ```
@@ -18,7 +18,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hi, I'm Sheshanth
+### Hi, I'm Sriyaan
 
 Full-stack developer building AI-native products. 2+ years across the stack — from RAG pipelines to production deployments. 6+ projects shipped. Based in India.
 
