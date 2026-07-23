@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<video src="ascii-magic-2.mp4" autoplay muted loop playsinline width="420"></video>
+<img src="ascii-magic-2.gif" width="420" alt="SRIYAAN">
 
 *Digital products, built to reason.*
 
@@ -12,7 +13,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hi, I'm Sheshanth
+### Hi, I'm Sriyaan Shetty
 
 Full-stack developer building AI-native products. 2+ years across the stack — from RAG pipelines to production deployments. 6+ projects shipped. Based in India.
 
