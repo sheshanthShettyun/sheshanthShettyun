@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="Uploading 8-Bit Pixel GIF by Microsoft Cloud.gif" width="420" alt="SRIYAAN">
+<img src="8-Bit Pixel GIF by Microsoft Cloud.gif" width="420" alt="SRIYAAN">
 
 *Digital products, built to reason.*
 
